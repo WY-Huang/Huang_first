@@ -1,2 +1,5 @@
 git push  向线上推送文件
 git pull  向本地拉取文件
+
+使用SSH   git clone git@github.com:WY-Huang/Huang_first.git
+使用HTTPS   git clone https://github.com/WY-Huang/Huang_first.git
